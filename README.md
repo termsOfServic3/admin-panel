@@ -27,7 +27,7 @@ Admin panel for automatic domain availability monitoring.
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/domain-monitor.git
+git clone https://github.com/your-username/admin-panel.git
 cd domain-monitor
 
 composer install
@@ -41,7 +41,7 @@ Configure `.env`:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=domain_monitor
+DB_DATABASE=admin-panel
 DB_USERNAME=root
 DB_PASSWORD=
 
